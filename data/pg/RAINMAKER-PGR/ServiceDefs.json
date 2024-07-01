@@ -9,12 +9,12 @@
       "department": "DEPT_1",
       "slaHours": 336,
       "menuPath": "StreetLights",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "NonSweepingOfRoad",
       "name": "Non sweeping of road",
-      "active": true,
+      "active": false,
       "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
       "department": "DEPT_3",
       "slaHours": 336,
@@ -28,7 +28,7 @@
       "department": "DEPT_1",
       "slaHours": 336,
       "menuPath": "StreetLights",
-      "active": true,
+      "active": false,
       "order": 1
     },
     {
@@ -38,7 +38,7 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Garbage",
-      "active": true,
+      "active": false,
       "order": 4
     },
     {
@@ -48,7 +48,7 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Garbage",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "BurningOfGarbage",
@@ -57,7 +57,7 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Garbage",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "OverflowingOrBlockedDrain",
@@ -66,7 +66,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "Drains",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "illegalDischargeOfSewage",
@@ -75,7 +75,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "WaterandSewage",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "BlockOrOverflowingSewage",
@@ -84,7 +84,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "WaterandSewage",
-      "active": true,
+      "active": false,
       "order": 2
     },
     {
@@ -94,7 +94,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "WaterandSewage",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "NoWaterSupply",
@@ -103,7 +103,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "WaterandSewage",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "DirtyWaterSupply",
@@ -112,7 +112,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "WaterandSewage",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "BrokenWaterPipeOrLeakage",
@@ -121,7 +121,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "WaterandSewage",
-      "active": true,
+      "active": false,
       "order": 3
     },
     {
@@ -131,7 +131,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "WaterandSewage",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "DamagedRoad",
@@ -140,7 +140,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "WaterLoggedRoad",
@@ -149,7 +149,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "ManholeCoverMissingOrDamaged",
@@ -158,7 +158,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "DamagedOrBlockedFootpath",
@@ -167,7 +167,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "ConstructionMaterialLyingOntheRoad",
@@ -176,7 +176,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "RequestSprayingOrFoggingOperation",
@@ -185,7 +185,7 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Mosquitos",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "StrayAnimals",
@@ -194,7 +194,7 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Animals",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "DeadAnimals",
@@ -203,7 +203,7 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Animals",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "DirtyOrSmellyPublicToilets",
@@ -212,7 +212,7 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "PublicToilets",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "PublicToiletIsDamaged",
@@ -221,7 +221,7 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "PublicToilets",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "NoWaterOrElectricityinPublicToilet",
@@ -230,7 +230,7 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "PublicToilets",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "IllegalShopsOnFootPath",
@@ -239,7 +239,7 @@
       "department": "DEPT_6",
       "slaHours": 336,
       "menuPath": "LandViolations",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "IllegalConstructions",
@@ -248,7 +248,7 @@
       "department": "DEPT_6",
       "slaHours": 336,
       "menuPath": "LandViolations",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "IllegalParking",
@@ -257,7 +257,7 @@
       "department": "DEPT_6",
       "slaHours": 336,
       "menuPath": "LandViolations",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "IllegalCuttingOfTrees",
@@ -266,7 +266,7 @@
       "department": "DEPT_5",
       "slaHours": 336,
       "menuPath": "Trees",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "CuttingOrTrimmingOfTreeRequired",
@@ -275,7 +275,7 @@
       "department": "DEPT_5",
       "slaHours": 336,
       "menuPath": "Trees",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "OpenDefecation",
@@ -284,7 +284,7 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "OpenDefecation",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "ParkRequiresMaintenance",
@@ -293,7 +293,7 @@
       "department": "DEPT_5",
       "slaHours": 336,
       "menuPath": "Parks",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "Others",
@@ -302,7 +302,7 @@
       "department": "DEPT_10",
       "slaHours": 336,
       "menuPath": "",
-      "active": true,
+      "active": false,
       "order": 6
     },
     {
@@ -312,7 +312,7 @@
       "department": "DEPT_13",
       "slaHours": 336,
       "menuPath": "PropertyTax",
-      "active": true
+      "active": false
 },
 {
     "serviceCode": "PropertyTaxAppealPetition",
@@ -321,7 +321,7 @@
       "department": "DEPT_13",
       "slaHours": 336,
       "menuPath": "PropertyTax",
-      "active": true
+      "active": false
 },
 {
     "serviceCode": "ChangeOfTitleOrOwnershipOfProperty",
@@ -330,7 +330,7 @@
       "department": "DEPT_13",
       "slaHours": 336,
       "menuPath": "PropertyTax",
-      "active": true
+      "active": false
 },
 {
     "serviceCode": "DealerRegistration",
@@ -339,7 +339,7 @@
       "department": "DEPT_13",
       "slaHours": 336,
       "menuPath": "PropertyTax",
-      "active": true
+      "active": false
 },
 {
     "serviceCode": "DealerAssessment",
@@ -348,7 +348,7 @@
       "department": "DEPT_13",
       "slaHours": 336,
       "menuPath": "PropertyTax",
-      "active": true
+      "active": false
 },
 {
     "serviceCode": "RefundClaims",
@@ -357,7 +357,61 @@
       "department": "DEPT_13",
       "slaHours": 336,
       "menuPath": "PropertyTax",
-      "active": true
+      "active": false
+},
+{
+  "serviceCode": "noFoodInWar",
+  "name": "No Food",
+  "keywords": "war food crysis",
+  "department": "DEPT_1",
+  "slaHours": 336,
+  "menuPath": "War",
+  "active": true
+},
+{
+  "serviceCode": "notSafeInWar",
+  "name": "Not Safe",
+  "keywords": "war food crysis safe",
+  "department": "DEPT_1",
+  "slaHours": 336,
+  "menuPath": "War",
+  "active": true
+},
+{
+  "serviceCode": "passportExpired",
+  "name": "Passport Expired",
+  "keywords": "passport expired renew",
+  "department": "DEPT_1",
+  "slaHours": 336,
+  "menuPath": "OnlineService",
+  "active": true
+},
+{
+  "serviceCode": "passportLost",
+  "name": "Passport Lost",
+  "keywords": "passport expired renew lost",
+  "department": "DEPT_1",
+  "slaHours": 336,
+  "menuPath": "OnlineService",
+  "active": true
+},
+{
+  "serviceCode": "TrappedInWar",
+  "name": "Trapped in a War zone",
+  "keywords": "war evacuation trapped",
+  "department": "DEPT_1",
+  "slaHours": 336,
+  "menuPath": "EvacuationService",
+  "active": true
+},
+{
+  "serviceCode": "BorderSealed",
+  "name": "Border Sealed Need Eacuation",
+  "keywords": "war evacuation trapped sealed seal border",
+  "department": "DEPT_1",
+  "slaHours": 336,
+  "menuPath": "EvacuationService",
+  "active": true
 }
 ]
 }
