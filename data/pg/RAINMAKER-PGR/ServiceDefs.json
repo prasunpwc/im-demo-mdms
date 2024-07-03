@@ -306,112 +306,391 @@
       "order": 6
     },
     {
-    "serviceCode": "PropertyTaxAssessment",
+      "serviceCode": "PropertyTaxAssessment",
       "name": "Property Tax Assessment",
       "keywords": "property, tax, Assessment",
       "department": "DEPT_13",
       "slaHours": 336,
       "menuPath": "PropertyTax",
       "active": false
-},
-{
-    "serviceCode": "PropertyTaxAppealPetition",
+    },
+    {
+      "serviceCode": "PropertyTaxAppealPetition",
       "name": "Property Tax Appeal Petition",
       "keywords": "property, tax, appeal, petition",
       "department": "DEPT_13",
       "slaHours": 336,
       "menuPath": "PropertyTax",
       "active": false
-},
-{
-    "serviceCode": "ChangeOfTitleOrOwnershipOfProperty",
+    },
+    {
+      "serviceCode": "ChangeOfTitleOrOwnershipOfProperty",
       "name": "Change of title/ownership of property",
       "keywords": "property, ownership, title, change",
       "department": "DEPT_13",
       "slaHours": 336,
       "menuPath": "PropertyTax",
       "active": false
-},
-{
-    "serviceCode": "DealerRegistration",
+    },
+    {
+      "serviceCode": "DealerRegistration",
       "name": "Dealer registration(Cess)",
       "keywords": "property, dealer, registration",
       "department": "DEPT_13",
       "slaHours": 336,
       "menuPath": "PropertyTax",
       "active": false
-},
-{
-    "serviceCode": "DealerAssessment",
+    },
+    {
+      "serviceCode": "DealerAssessment",
       "name": "Dealer Assessment",
       "keywords": "property, dealer, assessment",
       "department": "DEPT_13",
       "slaHours": 336,
       "menuPath": "PropertyTax",
       "active": false
-},
-{
-    "serviceCode": "RefundClaims",
+    },
+    {
+      "serviceCode": "RefundClaims",
       "name": "Refund Claims",
       "keywords": "property, refund, Claims",
       "department": "DEPT_13",
       "slaHours": 336,
       "menuPath": "PropertyTax",
       "active": false
-},
-{
-  "serviceCode": "noFoodInWar",
-  "name": "No Food",
-  "keywords": "war food crysis",
-  "department": "DEPT_1",
-  "slaHours": 336,
-  "menuPath": "War",
-  "active": true
-},
-{
-  "serviceCode": "notSafeInWar",
-  "name": "Not Safe",
-  "keywords": "war food crysis safe",
-  "department": "DEPT_1",
-  "slaHours": 336,
-  "menuPath": "War",
-  "active": true
-},
-{
-  "serviceCode": "passportExpired",
-  "name": "Passport Expired",
-  "keywords": "passport expired renew",
-  "department": "DEPT_1",
-  "slaHours": 336,
-  "menuPath": "OnlineService",
-  "active": true
-},
-{
-  "serviceCode": "passportLost",
-  "name": "Passport Lost",
-  "keywords": "passport expired renew lost",
-  "department": "DEPT_1",
-  "slaHours": 336,
-  "menuPath": "OnlineService",
-  "active": true
-},
-{
-  "serviceCode": "TrappedInWar",
-  "name": "Trapped in a War zone",
-  "keywords": "war evacuation trapped",
-  "department": "DEPT_1",
-  "slaHours": 336,
-  "menuPath": "EvacuationService",
-  "active": true
-},
-{
-  "serviceCode": "BorderSealed",
-  "name": "Border Sealed Need Eacuation",
-  "keywords": "war evacuation trapped sealed seal border",
-  "department": "DEPT_1",
-  "slaHours": 336,
-  "menuPath": "EvacuationService",
-  "active": true
-}
-]
+    },
+    {
+      "serviceCode": "noFoodInWar",
+      "name": "No Food",
+      "keywords": "war food crysis",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "War",
+      "active": false
+    },
+    {
+      "serviceCode": "notSafeInWar",
+      "name": "Not Safe",
+      "keywords": "war food crysis safe",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "War",
+      "active": false
+    },
+    {
+      "serviceCode": "passportExpired",
+      "name": "Passport Expired",
+      "keywords": "passport expired renew",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "OnlineService",
+      "active": false
+    },
+    {
+      "serviceCode": "passportLost",
+      "name": "Passport Lost",
+      "keywords": "passport expired renew lost",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "OnlineService",
+      "active": false
+    },
+    {
+      "serviceCode": "TrappedInWar",
+      "name": "Trapped in a War zone",
+      "keywords": "war evacuation trapped",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "EvacuationService",
+      "active": false
+    },
+    {
+      "serviceCode": "BorderSealed",
+      "name": "Border Sealed Need Eacuation",
+      "keywords": "war evacuation trapped sealed seal border",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "EvacuationService",
+      "active": false
+    },
+    {
+      "serviceCode": "WarfareWar",
+      "name": "War",
+      "keywords": "war warfare",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "Warfare",
+      "active": true
+    },
+    {
+      "serviceCode": "WarfareTerrorism",
+      "name": "Terrorism",
+      "keywords": "war warfare terrorism",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "Warfare",
+      "active": true
+    },
+    {
+      "serviceCode": "WarfareInternalConflicts",
+      "name": "Internal Conflicts",
+      "keywords": "warfare internal conflicts",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "Warfare",
+      "active": true
+    },
+    {
+      "serviceCode": "WarfareCivilUnrest",
+      "name": "Civil Unrest",
+      "keywords": "warfare civil unrest",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "Warfare",
+      "active": true
+    },
+    {
+      "serviceCode": "EnvironmentalBiologicalGlobalWarming",
+      "name": "Global Warming",
+      "keywords": "environmental biological global warming climate change ozone depletion solar flare epidemic plagues",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "Environmental/Biological",
+      "active": true
+    },
+    {
+      "serviceCode": "EnvironmentalBiologicalClimateChange",
+      "name": "Climate Change",
+      "keywords": "environmental biological global warming climate change ozone depletion solar flare epidemic plagues",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "Environmental/Biological",
+      "active": true
+    },
+    {
+      "serviceCode": "EnvironmentalBiologicalOzoneDepletion",
+      "name": "Ozone Depletion",
+      "keywords": "environmental biological global warming climate change ozone depletion solar flare epidemic plagues",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "Environmental/Biological",
+      "active": true
+    },
+    {
+      "serviceCode": "EnvironmentalBiologicalSolarflare",
+      "name": "Ozone Depletion",
+      "keywords": "environmental biological global warming climate change ozone depletion solar flare epidemic plagues",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "Environmental/Biological",
+      "active": true
+    },
+    {
+      "serviceCode": "EnvironmentalBiologicalEpidemic",
+      "name": "Epidemic",
+      "keywords": "environmental biological global warming climate change ozone depletion solar flare epidemic plagues",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "Environmental/Biological",
+      "active": true
+    },
+    {
+      "serviceCode": "EnvironmentalBiologicalPlagues",
+      "name": "Plagues",
+      "keywords": "environmental biological global warming climate change ozone depletion solar flare epidemic plagues",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "Environmental/Biological",
+      "active": true
+    },
+    {
+      "serviceCode": "MeteorologicalFloods",
+      "name": "Floods",
+      "keywords": "meteorological floods cyclone hurricane typhoon snowstorm storm thunderstorm droughts hotwaves coldwaves",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "Meteorological",
+      "active": true
+    },
+    {
+      "serviceCode": "MeteorologicalCyclone",
+      "name": "Cyclone",
+      "keywords": "meteorological floods cyclone hurricane typhoon snowstorm storm thunderstorm droughts hotwaves coldwaves",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "Meteorological",
+      "active": true
+    },
+    {
+      "serviceCode": "MeteorologicalHurricane",
+      "name": "Hurricane",
+      "keywords": "meteorological floods cyclone hurricane typhoon snowstorm storm thunderstorm droughts hotwaves coldwaves",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "Meteorological",
+      "active": true
+    },
+    {
+      "serviceCode": "MeteorologicalTyphoon",
+      "name": "Typhoon",
+      "keywords": "meteorological floods cyclone hurricane typhoon snowstorm storm thunderstorm droughts hotwaves coldwaves",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "Meteorological",
+      "active": true
+    },
+    {
+      "serviceCode": "MeteorologicalSnowStorm",
+      "name": "Snow Storm",
+      "keywords": "meteorological floods cyclone hurricane typhoon snowstorm storm thunderstorm droughts hotwaves coldwaves",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "Meteorological",
+      "active": true
+    },
+    {
+      "serviceCode": "MeteorologicalThunderstorm",
+      "name": "Thunderstorm",
+      "keywords": "meteorological floods cyclone hurricane typhoon snowstorm storm thunderstorm droughts hotwaves coldwaves",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "Meteorological",
+      "active": true
+    },
+    {
+      "serviceCode": "MeteorologicalDroughts",
+      "name": "Droughts",
+      "keywords": "meteorological floods cyclone hurricane typhoon snowstorm storm thunderstorm droughts hotwaves coldwaves",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "Meteorological",
+      "active": true
+    },
+    {
+      "serviceCode": "MeteorologicalHotColdWaves",
+      "name": "Hot/Cold Waves",
+      "keywords": "meteorological floods cyclone hurricane typhoon snowstorm storm thunderstorm droughts hotwaves coldwaves",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "Meteorological",
+      "active": true
+    },
+    {
+      "serviceCode": "GeologicalEarthquake",
+      "name": "Earthquake",
+      "keywords": "geological earthquake volcanic eruptions landslides tsunami debris mudflows",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "Geological",
+      "active": true
+    },
+    {
+      "serviceCode": "GeologicalVolcanicEruptions",
+      "name": "Volcanic Eruptions",
+      "keywords": "geological earthquake volcanic eruptions landslides tsunami debris mudflows",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "Geological",
+      "active": true
+    },
+    {
+      "serviceCode": "GeologicalLandslides",
+      "name": "Landslides",
+      "keywords": "geological earthquake volcanic eruptions landslides tsunami debris mudflows",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "Geological",
+      "active": true
+    },
+    {
+      "serviceCode": "GeologicalTsunami",
+      "name": "Tsunami",
+      "keywords": "geological earthquake volcanic eruptions landslides tsunami debris mudflows",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "Geological",
+      "active": true
+    },
+    {
+      "serviceCode": "GeologicalDebrisMudflows",
+      "name": "Debris/Mudflows",
+      "keywords": "geological earthquake volcanic eruptions landslides tsunami debris mudflows",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "Geological",
+      "active": true
+    },
+    {
+      "serviceCode": "TechnologicalTransportAccidents",
+      "name": "Transport Accidents",
+      "keywords": "technological transport accidents structure failures explosions fires",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "Technological",
+      "active": true
+    },
+    {
+      "serviceCode": "TechnologicalStructureFailures",
+      "name": "Structure Failures",
+      "keywords": "technological transport accidents structure failures explosions fires",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "Technological",
+      "active": true
+    },
+    {
+      "serviceCode": "TechnologicalExplosions",
+      "name": "Explosions",
+      "keywords": "technological transport accidents structure failures explosions fires",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "Technological",
+      "active": true
+    },
+    {
+      "serviceCode": "TechnologicalFires",
+      "name": "Fires",
+      "keywords": "technological transport accidents structure failures explosions fires",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "Technological",
+      "active": true
+    },
+    {
+      "serviceCode": "IndustrialChemicalSpills",
+      "name": "Chemical Spills",
+      "keywords": "industrial chemical spills radiation poisoning gas leaks",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "Industrial",
+      "active": true
+    },
+    {
+      "serviceCode": "IndustrialRadiation",
+      "name": "Radiation",
+      "keywords": "industrial chemical spills radiation poisoning gas leaks",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "Industrial",
+      "active": true
+    },
+    {
+      "serviceCode": "IndustrialPoisoning",
+      "name": "Poisoning",
+      "keywords": "industrial chemical spills radiation poisoning gas leaks",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "Industrial",
+      "active": true
+    },
+    {
+      "serviceCode": "IndustrialGasLeaks",
+      "name": "Gas Leaks",
+      "keywords": "industrial chemical spills radiation poisoning gas leaks",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "Industrial",
+      "active": true
+    }
+  ]
 }
