@@ -3,8 +3,8 @@
   "moduleName": "tenant",
   "tenants": [{
       "code": "pg.citya",
-      "name": "City A",
-      "description": "City A",
+      "name": "India",
+      "description": "India",
       "pincode": [143001,143002,143003,143004,143005],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "imageId": null,
@@ -17,7 +17,7 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "City A",
+        "name": "India",
         "localName": null,
         "districtCode": "CITYA",
         "districtName": null,
@@ -31,12 +31,12 @@
         "code": "1013",
         "ddrName": "DDR A"
       },
-      "address": "City A Municipal Corporation",
+      "address": "India Municipal Corporation",
       "contactNumber": "001-2345876"
     },
     {
       "code": "pg.cityb",
-      "name": "City B",
+      "name": "China",
       "description": null,
       "pincode": [143006,143007,143008,143009,143010],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
@@ -51,7 +51,7 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "City B",
+        "name": "China",
         "localName": null,
         "districtCode": "CITYB",
         "districtName": null,
@@ -65,13 +65,13 @@
         "code": "107",
         "ddrName": "DDR B"
       },
-      "address": "City B Municipal Corporation Address",
+      "address": "China Municipal Corporation Address",
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
     },
     {
       "code": "pg.cityc",
-      "name": "City C",
+      "name": "USA",
       "description": null,
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "imageId": null,
@@ -85,7 +85,7 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "City C",
+        "name": "USA",
         "localName": null,
         "districtCode": "CITYC",
         "districtName": null,
@@ -99,13 +99,13 @@
         "code": "108",
         "ddrName": "DDR C"
       },
-      "address": "City C Municipal Corporation Address",
+      "address": "USA Municipal Corporation Address",
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
     },
     {
       "code": "pg.cityd",
-      "name": "City D",
+      "name": "Russia",
       "description": null,
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "imageId": null,
@@ -119,7 +119,7 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "City D",
+        "name": "Russia",
         "localName": null,
         "districtCode": "CITYD",
         "districtName": null,
@@ -133,13 +133,13 @@
         "code": "109",
         "ddrName": "DDR D"
       },
-      "address": "City D Municipal Corporation Address",
+      "address": "Russia Municipal Corporation Address",
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
     },
     {
       "code": "pg.citye",
-      "name": "City E",
+      "name": "Australia",
       "description": null,
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "imageId": null,
@@ -153,7 +153,7 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "City E",
+        "name": "Australia",
         "localName": null,
         "districtCode": "CITYE",
         "districtName": null,
@@ -167,7 +167,7 @@
         "code": "110",
         "ddrName": "DDR E"
       },
-      "address": "City E Municipal Corporation Address",
+      "address": "Australia Municipal Corporation Address",
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
     },
