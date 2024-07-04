@@ -15859,6 +15859,70 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/ptr-home"
-    }
+    },
+	         {
+         "id": 2613,
+         "name": "rainmaker-citizen-createincident",
+         "url": "card",
+         "displayName": "Complaints",
+         "orderNumber": 2,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "code": "",
+         "path": "",
+         "navigationURL": "/digit-ui/citizen/pgr/create-complaint/complaint-type",
+         "leftIcon": "custom:account-alert",
+         "rightIcon": "",
+         "queryParams": ""
+      },
+	         {
+         "id": 2614,
+         "name": "rainmaker-citizen-openincidents",
+         "url": "card",
+         "displayName": "Complaints",
+         "orderNumber": 2,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "code": "",
+         "path": "",
+         "navigationURL": "/digit-ui/citizen/pgr/complaints?status=open",
+         "leftIcon": "custom:account-alert",
+         "rightIcon": "",
+         "queryParams": ""
+      },
+	         {
+         "id": 2615,
+         "name": "rainmaker-citizen-closedincidents",
+         "url": "card",
+         "displayName": "Complaints",
+         "orderNumber": 2,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "code": "",
+         "path": "",
+         "navigationURL": "/digit-ui/citizen/pgr/complaints?status=closed",
+         "leftIcon": "custom:account-alert",
+         "rightIcon": "",
+         "queryParams": ""
+      },
+	         {
+         "id": 2616,
+         "name": "rainmaker-citizen-searchincidents",
+         "url": "card",
+         "displayName": "Complaints",
+         "orderNumber": 2,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "code": "",
+         "path": "",
+         "navigationURL": "/digit-ui/citizen/complaints",
+         "leftIcon": "custom:account-alert",
+         "rightIcon": "",
+         "queryParams": ""
+      }
    ]
 }
