@@ -29,28 +29,28 @@
             {
               "code": "CITIZEN_SERVICE_INCIDENT_CREATE",
               "name": "Complaints",
-              "label": "ES_PGR_HEADER_COMPLAINT",
+              "label": "HEADER_INCIDENT_CREATE",
               "enabled": true,
               "navigationUrl": "/digit-ui/citizen/pgr/create-complaint/complaint-type"
             },
             {
               "code": "CITIZEN_SERVICE_INCIDENT_SEARCH",
               "name": "Property Tax",
-              "label": "MODULE_PT",
+              "label": "HEADER_INCIDENT_SEARCH",
               "enabled": false,
               "navigationUrl": "/digit-ui/citizen/complaints"
             },
             {
               "code": "CITIZEN_SERVICE_OPEN_INCIDENT",
               "name": "Trade Licence",
-              "label": "MODULE_TL",
+              "label": "HEADER_INCIDENT_OPEN",
               "enabled": false,
               "navigationUrl": "/digit-ui/citizen/pgr/complaints?status=open"
             },
             {
               "code": "CITIZEN_SERVICE_CLOSED_INCIDENT",
               "name": "Water & Sewerage",
-              "label": "ACTION_TEST_WATER_AND_SEWERAGE",
+              "label": "HEADER_INCIDENT_CLOSED",
               "enabled": false,
               "navigationUrl": "/digit-ui/citizen/pgr/complaints?status=closed"
             }
