@@ -15923,6 +15923,82 @@
          "leftIcon": "custom:account-alert",
          "rightIcon": "",
          "queryParams": ""
+      },
+      {
+         "id": 2617,
+         "name": "GlobalStatusofIncident",
+         "url": "/report/pgr/GlobalStatusofIncident/_get",
+         "displayName": "PGR Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "PGRReports",
+         "code": "null",
+         "path": "PGR Report"
+      },
+      {
+         "id": 2618,
+         "name": "PGR-GlobalStatusofIncident-Metadata",
+         "url": "/report/pgr/GlobalStatusofIncident/metadata/_get",
+         "displayName": "Status of Grievance",
+         "orderNumber": 1,
+         "parentModule": "147",
+         "enabled": false,
+         "serviceCode": "PGRReports",
+         "code": "null",
+         "path": "PGR Report"
+      },
+      {
+         "id": 2619,
+         "name": "GlobalStatusofIncident",
+         "url": "url",
+         "displayName": "Status of Grievance",
+         "orderNumber": 6,
+         "parentModule": "pgr",
+         "enabled": true,
+         "serviceCode": "PGR",
+         "code": "null",
+         "path": "Incidents.Reports.GlobalStatusofIncident",
+         "navigationURL": "report/pgr/GlobalStatusofIncident",
+         "leftIcon": "action:description",
+         "rightIcon": ""
+      },
+      {
+         "id": 2620,
+         "name": "RegionalStatusofIncident",
+         "url": "/report/pgr/RegionalStatusofIncident/_get",
+         "displayName": "PGR Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "PGRReports",
+         "code": "null",
+         "path": "PGR Report"
+      },
+      {
+         "id": 2621,
+         "name": "PGR-RegionalStatusofIncident-Metadata",
+         "url": "/report/pgr/RegionalStatusofIncident/metadata/_get",
+         "displayName": "Status of Grievance",
+         "orderNumber": 1,
+         "parentModule": "147",
+         "enabled": false,
+         "serviceCode": "PGRReports",
+         "code": "null",
+         "path": "PGR Report"
+      },
+      {
+         "id": 2622,
+         "name": "RegionalStatusofIncident",
+         "url": "url",
+         "displayName": "Status of Grievance",
+         "orderNumber": 6,
+         "parentModule": "pgr",
+         "enabled": true,
+         "serviceCode": "PGR",
+         "code": "null",
+         "path": "Incidents.Reports.RegionalStatusofIncident",
+         "navigationURL": "report/pgr/RegionalStatusofIncident",
+         "leftIcon": "action:description",
+         "rightIcon": ""
       }
    ]
 }
