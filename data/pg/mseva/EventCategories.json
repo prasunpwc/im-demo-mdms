@@ -3,18 +3,158 @@
   "moduleName": "mseva",
   "EventCategories": [
     {
-      "code": "PUBLICHEALTH",
-      "eventType":"EVENTSONGROUND",
+      "code": "WarfareWar",
+      "eventType": "War",
       "active": true
     },
     {
-      "code": "CULTURAL",
-      "eventType":"EVENTSONGROUND",
+      "code": "WarfareTerrorism",
+      "eventType": "Terrorism",
       "active": true
     },
     {
-      "code": "WARDCOMMITTEEMEETING",
-      "eventType":"EVENTSONGROUND",
+      "code": "WarfareInternalConflicts",
+      "eventType": "Internal Conflicts",
+      "active": true
+    },
+    {
+      "code": "WarfareCivilUnrest",
+      "eventType": "Civil Unrest",
+      "active": true
+    },
+    {
+      "code": "EnvironmentalBiologicalGlobalWarming",
+      "eventType": "Global Warming",
+      "active": true
+    },
+    {
+      "code": "EnvironmentalBiologicalClimateChange",
+      "eventType": "Climate Change",
+      "active": true
+    },
+    {
+      "code": "EnvironmentalBiologicalOzoneDepletion",
+      "eventType": "Ozone Depletion",
+      "active": true
+    },
+    {
+      "code": "EnvironmentalBiologicalSolarflare",
+      "eventType": "Ozone Depletion",
+      "active": true
+    },
+    {
+      "code": "EnvironmentalBiologicalEpidemic",
+      "eventType": "Epidemic",
+      "active": true
+    },
+    {
+      "code": "EnvironmentalBiologicalPlagues",
+      "eventType": "Plagues",
+      "active": true
+    },
+    {
+      "code": "MeteorologicalFloods",
+      "eventType": "Floods",
+      "active": true
+    },
+    {
+      "code": "MeteorologicalCyclone",
+      "eventType": "Cyclone",
+      "active": true
+    },
+    {
+      "code": "MeteorologicalHurricane",
+      "eventType": "Hurricane",
+      "active": true
+    },
+    {
+      "code": "MeteorologicalTyphoon",
+      "eventType": "Typhoon",
+      "active": true
+    },
+    {
+      "code": "MeteorologicalSnowStorm",
+      "eventType": "Snow Storm",
+      "active": true
+    },
+    {
+      "code": "MeteorologicalThunderstorm",
+      "eventType": "Thunderstorm",
+      "active": true
+    },
+    {
+      "code": "MeteorologicalDroughts",
+      "eventType": "Droughts",
+      "active": true
+    },
+    {
+      "code": "MeteorologicalHotColdWaves",
+      "eventType": "Hot\/Cold Waves",
+      "active": true
+    },
+    {
+      "code": "GeologicalEarthquake",
+      "eventType": "Earthquake",
+      "active": true
+    },
+    {
+      "code": "GeologicalVolcanicEruptions",
+      "eventType": "Volcanic Eruptions",
+      "active": true
+    },
+    {
+      "code": "GeologicalLandslides",
+      "eventType": "Landslides",
+      "active": true
+    },
+    {
+      "code": "GeologicalTsunami",
+      "eventType": "Tsunami",
+      "active": true
+    },
+    {
+      "code": "GeologicalDebrisMudflows",
+      "eventType": "Debris\/Mudflows",
+      "active": true
+    },
+    {
+      "code": "TechnologicalTransportAccidents",
+      "eventType": "Transport Accidents",
+      "active": true
+    },
+    {
+      "code": "TechnologicalStructureFailures",
+      "eventType": "Structure Failures",
+      "active": true
+    },
+    {
+      "code": "TechnologicalExplosions",
+      "eventType": "Explosions",
+      "active": true
+    },
+    {
+      "code": "TechnologicalFires",
+      "eventType": "Fires",
+      "active": true
+    },
+    {
+      "code": "IndustrialChemicalSpills",
+      "eventType": "Chemical Spills",
+      "active": true
+    },
+    {
+      "code": "IndustrialRadiation",
+      "eventType": "Radiation",
+      "active": true
+    },
+    {
+      "code": "IndustrialPoisoning",
+      "eventType": "Poisoning",
+      "active": true
+    },
+    {
+      "code": "IndustrialGasLeaks",
+      "eventType": "Gas Leaks",
       "active": true
     }
   ]
