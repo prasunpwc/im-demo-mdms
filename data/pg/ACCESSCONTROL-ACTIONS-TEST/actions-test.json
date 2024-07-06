@@ -15999,6 +15999,18 @@
          "navigationURL": "report/pgr/RegionalStatusofIncident",
          "leftIcon": "action:description",
          "rightIcon": ""
+      },
+      {
+         "id": 2623,
+         "name": "Plain Search PGR Request",
+         "url": "/pgr-services/v2/request/_plainsearch",
+         "parentModule": "",
+         "displayName": "Plain PGR Request",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "pgr-services",
+         "code": "null",
+         "path": ""
       }
    ]
 }

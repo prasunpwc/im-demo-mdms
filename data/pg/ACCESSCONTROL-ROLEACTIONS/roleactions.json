@@ -27898,6 +27898,12 @@
       "actionid": 2622,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 2623,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
