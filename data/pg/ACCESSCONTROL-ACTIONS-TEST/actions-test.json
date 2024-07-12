@@ -15957,8 +15957,8 @@
          "enabled": true,
          "serviceCode": "PGR",
          "code": "null",
-         "path": "Complaints.PGR Reports.GlobalStatusofIncident",
-         "navigationURL": "report/pgr/GlobalStatusofIncident",
+         "path": "Reports.GlobalStatusOfIncident",
+         "navigationURL": "report/pgr/GlobalStatusOfIncident",
          "leftIcon": "action:description",
          "rightIcon": ""
       },
@@ -15995,8 +15995,8 @@
          "enabled": true,
          "serviceCode": "PGR",
          "code": "null",
-         "path": "Complaints.PGR Reports.RegionalStatusofIncident",
-         "navigationURL": "report/pgr/RegionalStatusofIncident",
+         "path": "Reports.RegionalStatusofIncident",
+         "navigationURL": "report/pgr/RegionalStatusOfIncident",
          "leftIcon": "action:description",
          "rightIcon": ""
       },
