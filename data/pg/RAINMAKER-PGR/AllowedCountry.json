@@ -1,0 +1,14 @@
+{
+    "tenantId": "pg",
+    "moduleName": "RAINMAKER-PGR",
+    "AllowedCountry": [
+      {
+        "tenantId": "pg.citya",
+        "active": true
+      },
+      {
+        "tenantId": "pg.citye",
+        "active": true
+      }
+    ]
+  }
