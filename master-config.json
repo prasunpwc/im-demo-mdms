@@ -534,6 +534,13 @@
       "uniqueKeys": [
         "$.code"
       ]
+    },
+	"AllowedCountry": {
+      "masterName": "AllowedCountry",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.tenantId"
+      ]
     }
   },
   "PropertyTax": {
