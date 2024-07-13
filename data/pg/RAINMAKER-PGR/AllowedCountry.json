@@ -4,10 +4,12 @@
     "AllowedCountry": [
       {
         "tenantId": "pg.citya",
+        "countryName": "India",
         "active": true
       },
       {
         "tenantId": "pg.citye",
+        "countryName": "Ukraine",
         "active": true
       }
     ]
