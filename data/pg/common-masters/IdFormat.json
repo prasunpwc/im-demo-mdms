@@ -567,7 +567,7 @@
             "idname": "noc.application.number"
         },
         {
-            "format": "MEA-IM-[cy:yyyy-MM-dd]-[SEQ_EG_PGR_ID]",
+            "format": "[CITY.CODE][cy:yyyyMMdd][SEQ_EG_PGR_ID]",
             "idname": "pgr.servicerequestid"
         },
         {
