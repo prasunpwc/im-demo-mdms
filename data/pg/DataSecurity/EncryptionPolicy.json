@@ -38,6 +38,10 @@
             "type" : "Normal"
           },
           {
+            "jsonPath" : "passport",
+            "type" : "Normal"
+          },
+          {
             "jsonPath" : "permanentAddress/address",
             "type" : "Normal"
           },
