@@ -1,5 +1,5 @@
 {
-  "tenantId": "pg.citye",
+  "tenantId": "pg.cityf",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,18 +10,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "City E",
-        "localname": "City E",
+        "name": "City F",
+        "localname": "City F",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pg.citye",
+        "code": "pg.cityf",
         "children": [
           {
             "id": "2",
             "boundaryNum": 1,
-            "name": "Kyiv",
-            "localname": "Kyiv",
+            "name": "New York",
+            "localname": "New York",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -30,8 +30,8 @@
           {
             "id": "3",
             "boundaryNum": 1,
-            "name": "Kharkiv",
-            "localname": "Kharkiv",
+            "name": "Chicago",
+            "localname": "Chicago",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -48,18 +48,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "City E",
-        "localname": "City E",
+        "name": "City F",
+        "localname": "City F",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pg.citye",
+        "code": "pg.cityf",
         "children": [
           {
             "id": "2",
             "boundaryNum": 1,
-            "name": "Kyiv",
-            "localname": "Kyiv",
+            "name": "New York",
+            "localname": "New York",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -68,8 +68,8 @@
           {
             "id": "3",
             "boundaryNum": 1,
-            "name": "Kharkiv",
-            "localname": "Kharkiv",
+            "name": "Chicago",
+            "localname": "Chicago",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
