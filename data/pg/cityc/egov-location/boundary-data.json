@@ -20,8 +20,8 @@
           {
             "id": "2",
             "boundaryNum": 1,
-            "name": "Jerusalem",
-            "localname": "Jerusalem",
+            "name": "New York",
+            "localname": "New York",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -30,8 +30,8 @@
           {
             "id": "3",
             "boundaryNum": 1,
-            "name": "Tel Aviv-Yafo",
-            "localname": "Tel Aviv-Yafo",
+            "name": "Chicago",
+            "localname": "Chicago",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -58,8 +58,8 @@
           {
             "id": "2",
             "boundaryNum": 1,
-            "name": "Jerusalem",
-            "localname": "Jerusalem",
+            "name": "New York",
+            "localname": "New York",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -68,8 +68,8 @@
           {
             "id": "3",
             "boundaryNum": 1,
-            "name": "Tel Aviv-Yafo",
-            "localname": "Tel Aviv-Yafo",
+            "name": "Chicago",
+            "localname": "Chicago",
             "longitude": null,
             "latitude": null,
             "label": "Locality",

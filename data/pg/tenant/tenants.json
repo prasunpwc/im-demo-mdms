@@ -71,7 +71,7 @@
     },
     {
       "code": "pg.cityc",
-      "name": "Israel",
+      "name": "USA",
       "description": null,
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "imageId": null,
@@ -85,7 +85,7 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "Israel",
+        "name": "USA",
         "localName": null,
         "districtCode": "CITYC",
         "districtName": null,
@@ -96,10 +96,10 @@
         "latitude": 31.6339793,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "IL",
+        "code": "US",
         "ddrName": "DDR C"
       },
-      "address": "Israel Municipal Corporation Address",
+      "address": "USA Municipal Corporation Address",
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
     },
@@ -168,40 +168,6 @@
         "ddrName": "DDR E"
       },
       "address": "Ukraine Municipal Corporation Address",
-      "contactNumber": "0978-7645345",
-      "helpLineNumber": "0654-8734567"
-    },
-    {
-      "code": "pg.cityf",
-      "name": "USA",
-      "description": null,
-      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
-      "imageId": null,
-      "domainUrl": "https://www.upyog.niua.org",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": "cityf@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM",
-        "Sat": "9.00 AM - 12.00 PM"
-      },
-      "city": {
-        "name": "USA",
-        "localName": null,
-        "districtCode": "CITYE",
-        "districtName": null,
-        "districtTenantCode": "pg.cityf",
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 95.7129867,
-        "latitude": 37.0902877,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "US",
-        "ddrName": "DDR E"
-      },
-      "address": "USA Municipal Corporation Address",
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
     },
