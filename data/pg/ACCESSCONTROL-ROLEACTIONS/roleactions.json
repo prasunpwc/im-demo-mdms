@@ -28714,6 +28714,42 @@
       "actionid": 2600,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "INC_GLOBAL_VIEWER",
+      "actionid": 2617,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "INC_GLOBAL_VIEWER",
+      "actionid": 2618,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "INC_GLOBAL_VIEWER",
+      "actionid": 2619,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "INC_REGION_VIEWER",
+      "actionid": 2620,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "INC_REGION_VIEWER",
+      "actionid": 2621,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "INC_REGION_VIEWER",
+      "actionid": 2622,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }

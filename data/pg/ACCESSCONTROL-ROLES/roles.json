@@ -741,6 +741,16 @@
       "code": "INC_RESOLVER",
       "name": "Incident Resolver",
       "description": "Incident Resolver"
+    },
+    {
+      "code": "INC_GLOBAL_VIEWER",
+      "name": "Incident Global Viewer",
+      "description": "Incident Global Viewer"
+    },
+    {
+      "code": "INC_REGION_VIEWER",
+      "name": "Incident Reion Viewer",
+      "description": "Incident Region Viewer"
     }
   ]
 }
