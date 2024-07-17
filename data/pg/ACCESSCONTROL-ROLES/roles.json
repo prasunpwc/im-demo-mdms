@@ -726,6 +726,21 @@
       "code": "PTR_VERIFIER",
       "name": "Pet Document Verifier",
       "description": "Pet Application Document Verifier"
+    },
+    {
+      "code": "INC_VERIFIER",
+      "name": "Incident Verifier",
+      "description": "Incident Verifier"
+    },
+    {
+      "code": "INC_APPROVER",
+      "name": "Incident Approver",
+      "description": "Incident Approver"
+    },
+    {
+      "code": "INC_RESOLVER",
+      "name": "Incident Resolver",
+      "description": "Incident Resolver"
     }
   ]
 }
