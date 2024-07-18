@@ -25869,12 +25869,6 @@
     },
     {
       "rolecode": "CITIZEN",
-      "actionid": 2450,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "CITIZEN",
       "actionid": 2451,
       "actioncode": "",
       "tenantId": "pg"
@@ -28676,6 +28670,12 @@
     {
       "rolecode": "INC_REGION_VIEWER",
       "actionid": 2622,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2624,
       "actioncode": "",
       "tenantId": "pg"
     }

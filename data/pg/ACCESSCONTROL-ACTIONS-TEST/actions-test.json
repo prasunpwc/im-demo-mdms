@@ -13825,7 +13825,7 @@
       "displayName": "File a Complaint",
       "orderNumber": 1,
       "parentModule": "PGR",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "",
       "code": "",
       "path": "",
@@ -16011,6 +16011,19 @@
          "serviceCode": "pgr-services",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 2624,
+         "name": "SelectLanguage",
+         "url": "url",
+         "displayName": "Select Language",
+         "orderNumber": 3,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "PGR",
+         "code": "null",
+         "path": "Select Location",
+         "navigationURL": "/digit-ui/citizen/select-location"
       }
    ]
 }
