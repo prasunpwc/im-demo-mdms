@@ -15942,7 +15942,7 @@
          "displayName": "Global Status Of Incidents",
          "orderNumber": 1,
          "parentModule": "147",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PGRReports",
          "code": "null",
          "path": "PGR Report"
@@ -15980,7 +15980,7 @@
          "displayName": "Regional Status of Incidents",
          "orderNumber": 1,
          "parentModule": "147",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PGRReports",
          "code": "null",
          "path": "PGR Report"
